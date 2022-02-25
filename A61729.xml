@@ -1,0 +1,580 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rule of rejoycing, or, A direction for mirth in a sermon preached upon Trinity-Sunday, being the 18th of June in the year of our Lord 1671 / by John Straight ...</title>
+            <author>Straight, John, 1605?-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61729</idno>
+            <idno type="STC">Wing S5806</idno>
+            <idno type="STC">ESTC R15245</idno>
+            <idno type="EEBO-CITATION">13593513</idno>
+            <idno type="OCLC">ocm 13593513</idno>
+            <idno type="VID">100693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100693)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 802:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rule of rejoycing, or, A direction for mirth in a sermon preached upon Trinity-Sunday, being the 18th of June in the year of our Lord 1671 / by John Straight ...</title>
+                  <author>Straight, John, 1605?-1680.</author>
+               </titleStmt>
+               <extent>[6], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Thomas ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Philippians IV, 4 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100693:1"/>
+            <pb facs="tcp:100693:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Rule of Rejoycing;</hi> OR A DIRECTION FOR Mirth.</p>
+            <p>IN A SERMON Preached upon <hi>Trinity-Sunday,</hi> being the <hi>18th</hi> of <hi>June,</hi> in the Year of our Lord 1671.</p>
+            <p>By <hi>JOHN STRAIGHT,</hi> Maſter of Arts, ſometime a Member of <hi>Queens-Colledge</hi> in <hi>Cambridge,</hi> now Vicar of <hi>Stourepaine</hi> in the County of <hi>Dorſet,</hi> and Chaplain to the Right Reverend Father in God, Dr. <hi>John Davenant,</hi> late Lord Biſhop of <hi>Sarum.</hi>
+            </p>
+            <q>
+               <hi>Temporalibus gaudent, qui bona aeterna non norunt deſiderare,</hi> 
+               <bibl>Aug. in <hi>Pſal.</hi> 52.</bibl>
+            </q>
+            <q>
+               <hi>We will rejoyce in thy Salvation, and triumph in the Name of the Lord our God,</hi> 
+               <bibl>Pſal. 20. 5.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Thomas</hi> at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Britain,</hi> 1671.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100693:2"/>
+            <pb facs="tcp:100693:2" rendition="simple:additions"/>
+            <head>THE EPISTLE DEDICATORY.</head>
+            <head type="sub">
+               <hi>To his Loving Pariſhioners and good Neighbours, the Inhabitants of</hi> Stourepaine <hi>in the County of</hi> Dorſet, <hi>JOHN STRAIGHT, their Aged Vicar, dedicateth this</hi> Rule of Rejoycing.</head>
+            <opener>
+               <salute>My good Neighbours,</salute>
+            </opener>
+            <p>THere are too many pluckt away with the Errours of theſe Sediti<g ref="char:EOLhyphen"/>ous and Schiſmatical Times: How much it hath been my care to keep you upright, and preſerve you from Schiſm, Faction and Separation, you cannot chuſe but witneſs for me. I am now grown old, and ready to go the way of all Fleſh; and ſee<g ref="char:EOLhyphen"/>ing I have received ſome part of my temporal Maintenance from you, I thought it meet for me, before I go hence, and be no more ſeen, to be<g ref="char:EOLhyphen"/>ſtow ſome ſpiritual Gift upon you, by which I might, by Gods Bleſſing upon it, ſo ſeaſon your <note place="margin">
+                  <hi>Rom.</hi> 1. 11.</note> outward Enjoyments, as you might be further<g ref="char:EOLhyphen"/>ed in your paſſage to that Countrey, which I truſt you ſeek after. Give me leave to make uſe <note place="margin">
+                  <hi>Heb.</hi> 11. 14.</note> of a part of S. <hi>Peters</hi> Expreſſion to the Cripple at the Temple Gate <hi>(Such as I have, give I unto</hi> 
+               <note place="margin">
+                  <hi>Acts</hi> 3. 6.</note>
+               <pb facs="tcp:100693:3"/> 
+               <hi>you)</hi> a few Printed Leaves of Paper, which are indeed the beſt Monuments and ſutableſt Re<g ref="char:EOLhyphen"/>membrances that a Miniſter can leave behind him to his People; by which, he being dead, may (with <hi>Abel)</hi> yet ſpeak unto you. If S. <hi>Paul</hi> was <note place="margin">
+                  <hi>Phil.</hi> 3. 1.</note> not aſhamed to write the ſame things again, ſure it is no preſumption then in me to preſent that now to your views, which not long ſince I com<g ref="char:EOLhyphen"/>mitted to your ears. It ſeemed welcome to you then; I hope you will kindly accept of it now; &amp; not only entertain it as a teſtimony of my Love, and dear Affection to you, but that which is far better, <hi>viz.</hi> That you will make that good uſe of it, for which it was intended; which was, the rectifying of your Joy here while I am with you, and the continuance of your Comfort hereafter, when I am dead, and taken from you. If God ſhall move your hearts (as I truſt he hath begun to do, and will more) to the entertainment of that which is the principal Subject of this Ser<g ref="char:EOLhyphen"/>mon, it will make you ſhun the Atheiſtical pro<g ref="char:EOLhyphen"/>phaneneſs of theſe Godleſs times, and bring that upon you, which is only able to make you happy; even that which will make your hearts ſtable and unblameable in Joyfulneſs; which is the hearty Prayer of him that is</p>
+            <closer>
+               <signed>Your very Loving Vicar, and continual Suppliant to the Throne of Grace for you all. JOHN STRAIGHT.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100693:3"/>
+            <head>
+               <hi>To all</hi> READERS <hi>whatſoever.</hi>
+            </head>
+            <p>THe Merchant that hath once put to Sea, though he meet with ſome miſcaſualties in his Voyage, is yet commonly apt to make an<g ref="char:EOLhyphen"/>other Adventure. It hath been my hap, by the per<g ref="char:EOLhyphen"/>ſwaſion of ſome prevalent Friends, to make two ad<g ref="char:EOLhyphen"/>ventures already before this; My Ship is once again launched, and let looſe to the ſwelling waves of ma<g ref="char:EOLhyphen"/>licious Cenſure. The boyſterous blaſts of ſuch vain winds diſmay me not, nor do the multitude of pil<g ref="char:EOLhyphen"/>fering Pyrates, who by their prating, endeavour to rob men of their good Names, put a ſtop to my courſe, <note place="margin">2 Cor. 11. 26.</note> or cauſe me to ſtrike ſail. The bleſſed Apoſtle tells me, that he was thrice ſhipwrackt, that he was in perils often, and among the reſt, eſpecially amongſt falſe Brethren. How can I then look to be free from ſuch perils? No, no, ſo long as there are ſo many of but little Judgment, and leſs Honeſty, I neither can, nor do expect to eſcape their ſtripes. But as for ſuch, I ſhall take up the ſame Apoſtles reſolution, and ſay <note place="margin">1 Cor. 4. 3.</note> with him, that I paſs very little to be judged of them. There are too many ſo proud, and ſelf-conceited, that they think nothing well done, but what they do them<g ref="char:EOLhyphen"/>ſelves; ſuch Readers commonly uſurp the office of raſh Judges, and ſo, inſtead of <hi>Lectores,</hi> they become <hi>Lictores.</hi> To ſuch, I ſhall apply my bleſſed Saviours words, <hi>If I have ſpoken evil, bear witneſs of the evil; if well, why then do you ſmite me</hi> with your <note place="margin">John 18. 23 1 Cor. 4. 3.</note> detracting Tongues? If my God approve me, I paſs not for mans cenſure. As for that Thredbare dry deri<g ref="char:EOLhyphen"/>ſion, of being a Fool in Print, I can as chearfully bear it, as <hi>David</hi> ſomtime did the Taunts of <hi>Michol,</hi> 
+               <note place="margin">2 Sam. 6. 20, 21, 22.</note>
+               <pb facs="tcp:100693:4"/> and be as well pleaſed to be eſteem'd a Fool for the communication of good things, as S. <hi>Paul</hi> was con<g ref="char:EOLhyphen"/>tented to be accounted a Fool for Chriſts ſake. I ſhall now diſmiſs the captious and cavilling Reader with <note place="margin">1 Cor. 4. 10.</note> 
+               <hi>Martial</hi>'s Diſtich:</p>
+            <p>
+               <hi>Cum tua non edas, carpis mea Carmina</hi> Leli?</p>
+            <p>Carpere vel noli noſtra, vel ede tua. <note place="margin">Martial.</note>
+            </p>
+            <p>And ſo turning to the truly Religious and well affe<g ref="char:EOLhyphen"/>cted Readers, who read to profit, and not to pick Holes; To you, dear Chriſtians, I willingly preſent this Sermon, with <hi>Jacobs</hi> Bleſſing and Prayer for his Sons; <hi>God Almighty ſend thee mercy in the ſight of the man,</hi> &amp;c. You have here (good Friends) <note place="margin">Gen. 43. 14.</note> a <hi>Rule of Rejoycing, a Direction for your Mirth;</hi> accept it from me, &amp; apply it to your ſelves; do as <hi>Eli<g ref="char:EOLhyphen"/>ſha</hi> did to the Child he raiſed from death to life; <hi>he ſtretch'd himſelf over the Child, he put his mouth</hi> 
+               <note place="margin">2 Kin. 4. 33, 34.</note> 
+               <hi>on the Childs mouth, his eies on his eies, his hands on his hands,</hi> and therewithal he joyned prayers, and the Child revived; ſo do you alſo, compare your ſelves with this pattern, meaſure out your joy with this Rule; where you find a conformity, give thanks to God for it; and where not, pray to God to quicken you, that you may grow in an holy ſimilitude and conformity to this Rule. And if theſe little fruits of my Miniſtry may ſerve any way to guide you in your journey towards Heaven, it ſhall be no ſmall com<g ref="char:EOLhyphen"/>fort to me, that I have not run nor laboured in vain. <note place="margin">Gal. 2. 2.</note> And ſeeing all good things come from above, I there<g ref="char:EOLhyphen"/>fore commend you to the Father of Lights, who is able to make you rejoyce in him, with joy unſpeakable and glorious; and reſt, <note place="margin">1 Pet. 1. 8.</note>
+            </p>
+            <closer>
+               <signed>Yours to ſerve you in what I may. <hi>JOHN STRAIGHT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100693:4"/>
+            <head>The Rule of REJOYCING, OR, A Direction for MIRTH. IN A SERMON Preached in the Pariſh-Church of <hi>Stoure-paine</hi> in the County of <hi>Dorſet,</hi> on the <hi>18th</hi> of <hi>June,</hi> 1671.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Phil.</hi> 4. 4.</bibl>
+               <q>Rejoyce in the Lord alway, again I ſay, Rejoyce.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which <hi>Seneca</hi> ſometime ſaid of Learn<g ref="char:EOLhyphen"/>ing, I may, and that not unfitly, affirm of Joy: <hi>Vita ſine Literis mors eſt, vivum<g ref="char:EOLhyphen"/>que hominis Sepulchrum;</hi> ſo he: <hi>Vita ſine gaudio mors eſt, vivumque hominis Sepul<g ref="char:EOLhyphen"/>chrum;</hi> ſo I. A Life without <hi>Learning</hi> (He) without <hi>Joy</hi> (I) is a meer Death, and but the living Sepulcher of man. A ſhort Life, if joyous, is far bet<g ref="char:EOLhyphen"/>ter than a long Age, if mixt, and continually clogg'd
+<pb n="2" facs="tcp:100693:5"/> with anxious Moleſtations: Much rather ſhould I chuſe to live a few dayes here in merry gladneſs, than deſire to accompliſh the prolonged years of <hi>Methuſelah</hi> in ſullen ſadneſs. Heavineſs of heart is the Curſe of God. 'Tis <note place="margin">
+                  <hi>Deut.</hi> 28. 65. <hi>Pro.</hi> 15. 13. &amp; 17. 22. 1 <hi>Pet.</hi> 5. 8.</note> a great enemy to our health, which God hath bound us to take care of: It dries the Bones; and briefly, it gives great advantage to Satan, who <hi>like a roaring Lion walketh about ſeeking whom he may devour.</hi> 'Tis an old Saying, that <hi>Melancholia est Vehiculum Daemonus;</hi> and Experi<g ref="char:EOLhyphen"/>ence proves, that we are never ſo weak, never ſo apt to receive the Temptations of Satan, never ſo unable to re<g ref="char:EOLhyphen"/>ſiſt them, as when we are oppreſs'd with Melancholy and Sadneſs of heart: For this cauſe S. <hi>Paul</hi> chargeth the <hi>Corinthians</hi> to comfort the inceſtuous perſon, <hi>leſt Satan</hi> 
+               <note place="margin">2 <hi>Cor.</hi> 2, 7, 11.</note> (ſaith he) <hi>circumvent us; for we are not ignorant of his Devices.</hi> Look upon <hi>David,</hi> a man after Gods own heart, as the Scripture ſtiles him; and yet ſee to what an <note place="margin">2 <hi>Sam.</hi> 18. 33.</note> inconvenience ſadneſs, and plodding too much on the loſs of his Son <hi>Abſolom</hi> brought him; ſee how unlike himſelf it made him. And ſo <hi>Job,</hi> concerning whom the <note place="margin">
+                  <hi>Job</hi> 1. 1.</note> Lord gives alſo a large Teſtimony; <hi>an upright and just man, one that feared God, and eſchewed evil:</hi> Yet obſerve how far he forgets himſelf, by yielding too much to ſad<g ref="char:EOLhyphen"/>neſs and heavineſs of heart: he is angry with the Light, <note place="margin">
+                  <hi>Job</hi> 3. 3, 4, 5, 6, 7, 8, 9, &amp;c.</note> quarrels with the Night, hath a Saying to the Stars, to his Mother, to the Midwife; there is no dealing with him in his Fit.</p>
+            <p>Inſtances of this kind, there be more than enough; but they are unpleaſant. Without Joy, there is no con<g ref="char:EOLhyphen"/>tentment in any thing. Who would wiſh for Life it ſelf, but to take ſome joy and comfort in it? Joy is all in all. Well therefore doth our Apoſtle apply himſelf to preſs this Duty upon the <hi>Philippians</hi> in the words of our Text; <hi>Rejoyce in the Lord alway, again I ſay, rejoyce.</hi>
+            </p>
+            <p>In which words obſerve theſe four Particulars.</p>
+            <p n="1">1. A Duty enjoyned, <hi>viz.</hi> Rejoycing; <hi>Rejoyce.</hi>
+            </p>
+            <p n="2">
+               <pb n="3" facs="tcp:100693:5"/> 2. The Limitation of this Duty; our Rejoycing muſt not be carnal, but ſpiritual, <hi>non in Saeculo, ſed in Domino;</hi> it muſt not be in the World, but in the Lord; <hi>Rejoyce in the Lord.</hi>
+            </p>
+            <p n="3">3. The Extent of this Duty of Rejoycing: It muſt not be at one time, and not at another; it muſt not be only now at <hi>Trinity-Tide,</hi> your uſual time of Merriment, and enjoyment of your Friends and Acquaintance, and no more till that time comes again in a Revolution; but it muſt be all the year long, even as long as we live [alway] <hi>Rejoyce in the Lord alway.</hi>
+            </p>
+            <p n="4">4. And Laſtly, The Ingemination of this Duty of Rejoycing; <hi>Again I ſay, Rejoyce:</hi> As if S. <hi>Paul</hi> ſhould have ſaid, I exhort you not unto this duty of Rejoycing ſuddenly nor raſhly, out of a merry pin (as we com<g ref="char:EOLhyphen"/>monly ſay) but out of a ſerious and ſober deliberation; and therefore I ſay again, Rejoyce. <hi>Rejoyce in the Lord alway, again I ſay, Rejoyce.</hi> Of theſe in their Order.</p>
+            <p>And firſt, of the firſt; The Duty enjoyned by the A<g ref="char:EOLhyphen"/>poſtle to every good Chriſtian, Rejoycing. <hi>Rejoyce.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> Doct. <hi>It is then the Duty of all Gods Children to be joyful. It is the Duty of all Gods Children to be cheerful.</hi> 
+            </p>
+            <p>
+               <hi>O come, let us rejoyce unto the Lord,</hi> ſaith the Pſalmiſt. <hi>Let</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 95. 1. <hi>Pſal.</hi> 100. 2. <hi>Pſal.</hi> 100. 4. <hi>Pſal.</hi> 47. 1.</note> 
+               <hi>us ſerve the Lord with gladneſs, and come before him with joyfulneſs. Let us enter into his Gates with praiſe, and into his Courts with rejoycing. All people clap your hands, ſing aloud unto God with a joyful voice,</hi> ſaith <hi>David.</hi> This Diſpoſition, we ſee, was in the bleſſed Virgin <hi>Mary,</hi> 
+               <note place="margin">
+                  <hi>Luke</hi> 1. 47.</note> when ſhe ſaid, that <hi>her Spirit rejoyced in God her Saviour.</hi> There is no man but would have his buſineſs done with Cheerfulneſs; and therefore <hi>Solomon</hi> ſaith, that <hi>a ſluggiſh</hi> 
+               <note place="margin">
+                  <hi>Pro.</hi> 10. 26.</note> or dull Agent, <hi>is as Vinegar to the Teeth, or as Smoke to the Eyes.</hi> It is a matter of vexation and trouble, to ſee any thing performed with lumpiſh heavineſs. God him<g ref="char:EOLhyphen"/>ſelf is all Spirit, and he will be ſerved with our Spirits;
+<pb n="4" facs="tcp:100693:6"/> he can endure none but cheerful Servitors. In the time of the Ceremonies, when God had appointed, that the firſt-born of a mans Beaſts ſhould be ſet apart to him, it was with this exception; If it were the firſt Foal of an <note place="margin">
+                  <hi>Exod.</hi> 13. 12, 13.</note> Aſs, it ſhould be redeemed with a Lamb; if it were not redeemed, the Neck of it was to be broken; God would not have that to be ſacrificed unto him. Some, not un<g ref="char:EOLhyphen"/>aptly, make this to be meant by it, that God ſo appoint<g ref="char:EOLhyphen"/>ed, as an evidence of his deteſtation of dulneſs and want of Life and Cheerfulneſs in good things, an Aſs being one of the dulleſt Creatures (for which cauſe, I conceive, Sloth is wont to be pictured riding upon an Aſs) God would not be honoured by the Sacrifice of ſuch a Beaſt. It is the Badge of Chriſts People, that they come wil<g ref="char:EOLhyphen"/>lingly at the time of aſſembling. And <hi>I rejoyced,</hi> ſaith <hi>David, when they ſaid unto me, we will go unto the Houſe</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 110. 3. <hi>Pſal.</hi> 122. 1.</note> 
+               <hi>of the Lord.</hi> Thoſe Services that are offered unto God without cheerfulneſs, they never find acceptance.</p>
+            <p>And truly great reaſon have Gods Children to rejoyce, and to ſerve him with alacrity: For,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> 
+               <hi>Firſt,</hi> Their Sins are forgiven them, and that is a juſt cauſe of joy. <hi>Son, be of good cheer</hi> (ſaith our Saviour Chriſt) <hi>thy Sins are forgiven thee.</hi> 
+               <note place="margin">
+                  <hi>Matth.</hi> 9. 2.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Secondly,</hi> God is reconciled unto them in Chriſt, and delights in them, and that is another juſt cauſe of joy. <hi>Let him that glorieth</hi> (ſaith the Lord) <hi>glory in this, that he underſtandeth and knoweth me, that I am the Lord which</hi> 
+               <note place="margin">
+                  <hi>Jer.</hi> 9. 24.</note> 
+               <hi>exerciſe loving kindneſs.</hi> This is that loving kindneſs and mercy, which being ſhed abroad in the heart by the holy Ghoſt, is better than life, as the Pſalmiſt ſpeaks; <hi>The Soul is ſatisfied with it as with Marrow and Fatneſs.</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 63. 3. <hi>Pſal.</hi> 63. 5. <hi>Rom.</hi> 14. 17. <hi>Rom.</hi> 8. 16. 1 <hi>Pet.</hi> 1. 8. <hi>Luke</hi> 2. 10. <hi>John</hi> 16. 24.</note> St. <hi>Paul</hi> calleth this <hi>Joy in the Holy Ghoſt:</hi> The Holy Ghoſt works it in the heart, and that witneſs of the Spi<g ref="char:EOLhyphen"/>rit is the Ground of it. St. <hi>Peter,</hi> for the dignity of it, commends it to be both <hi>unſpeakable and glorious.</hi> The An<g ref="char:EOLhyphen"/>gels to the Shepherds called it <hi>great joy.</hi> Our bleſſed Sa<g ref="char:EOLhyphen"/>viour ſtiles it <hi>a full joy.</hi> And the Pſalmiſt terms it <hi>the joy</hi>
+               <pb n="5" facs="tcp:100693:6"/> 
+               <hi>of Gods people,</hi> as being their Peculiar: The Stranger <note place="margin">
+                  <hi>Pſ.</hi> 106. 5.</note> from the Common-wealth of <hi>Iſrael</hi> meddles not with this Joy.</p>
+            <div n="1" type="application">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 1. <hi>Inſtruct.</hi>
+               </head>
+               <p>The Religious Life then is the merry Life. Thoſe that do unſeignedly fear God, and have ſet their hearts to pleaſe him, are the only men of the world, that have juſt cauſe to be cheerful, that have juſt cauſe to be com<g ref="char:EOLhyphen"/>fortable, that have juſt cauſe to be joyful. <hi>Let the heart of them rejoyce that ſeek the Lord,</hi> ſaith the Prophet <hi>Da<g ref="char:EOLhyphen"/>vid:</hi> 
+                  <note place="margin">
+                     <hi>Pſal.</hi> 105. 3. <hi>Pſal.</hi> 32. 11.</note> 
+                  <hi>And ſhout for joy all ye that are upright in heart.</hi>
+               </p>
+            </div>
+            <div n="2" type="application">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 2. <hi>Reproof.</hi>
+               </head>
+               <p>Let this then be a check to our common Lumpiſhneſs, and a reproof to our uſual uncheerfulneſs: Let it ſerve to correct that deadneſs of Spirit which doth generally diſ<g ref="char:EOLhyphen"/>cover it ſelf in our performances of Religious Duties. Men many times look, when they are hearing, or otherwiſe attending upon the other Services of Gods Houſe, as if they had no heart to them; as if (were it not for ſhame) they would ſay with thoſe <hi>Jews</hi> that the Prophet <hi>Malachy</hi> ſpeaks of, in plain terms, <hi>Behold it is a wearineſs.</hi> The <note place="margin">
+                     <hi>Mal.</hi> 1. 13.</note> thoughts of many are even tired and ſpent, before an hour be half out; witneſs that common deadneſs, and filthy drowſineſs, to which many do give themſelves over, even in the midſt of the Congregation. Oh, look to your Affections, Beloved! God looks for cheerfulneſs in his Service. He would have nothing taken of any towards the erecting of the Tabernacle, unleſs it were of him that had a <hi>willing heart.</hi> Strive therefore, Oh ſtrive, I ſay, <note place="margin">
+                     <hi>Exod.</hi> 35. 5.</note> againſt your wonted ſluggiſhneſs, and when you feel a kind of heavineſs to creep upon you, do you check your ſelves for it; rouze up your ſelves, and blame your ſelves, who in other things can be ſo jocund and freſh, and yet be ſo heavy, like men ſtruck on the head, when
+<pb n="6" facs="tcp:100693:7"/> matters appertaining to the Service of God are in hand, Remember the Duty injoyned here by the Apoſtle; <hi>Re<g ref="char:EOLhyphen"/>joyce.</hi>
+               </p>
+               <p>Rejoyce; yes: but what is this joy you perſwade us <note place="margin">Tho. Aq.</note> unto? The Angelical Doctor tells you, that it is <hi>Paſſio mentis excitata ex opinione praeſentis boni, vel expectatione futuri;</hi> Joy (ſaith he) is a paſſion of the Mind ſtirred up from an opinion of ſome preſent, or at leaſt from an expectation of ſome future good. Now (Beloved) ſeeing Gods Children have not only an opinion of ſome pre<g ref="char:EOLhyphen"/>ſent, but a moſt certain expectation of ſome future good too, therefore they of all men have moſt cauſe to re<g ref="char:EOLhyphen"/>joyce, and ſerve their God with gladneſs. But to give you yet a more Divine Deſcription of true Joy: True joy indeed is a ſpiritual motion wrought in the minds and hearts of the Faithful by the Holy Ghoſt, proceeding from their Reconciliation to God by Faith in Chriſt. Hence is that of <hi>Caeſarius, Verum gaudium non poſſidetur, niſi pax &amp; juſtitia teneatur; prima enim est &amp; quaſi ra<g ref="char:EOLhyphen"/>dix</hi> 
+                  <note place="margin">
+                     <hi>Caeſar.</hi> 2. <hi>Admon.</hi>
+                  </note> 
+                  <hi>Justitia, ſecunda Pax, tertia Gaudium; de Juſtitia naſcitur Pax, de Pace Gaudium generatur:</hi> That is, True Joy is not there to be found, where Peace and Righteouſneſs is forſaken; for Righteouſneſs which pro<g ref="char:EOLhyphen"/>ceeds from our reconciliation to God by Faith in Chriſt, is firſt, and as it were, the root of all; Peace of Con<g ref="char:EOLhyphen"/>ſcience ſecond, iſſuing from the former; and laſtly, true joy ſpringing from both; from Righteouſneſs comes Peace, and from Peace proceeds true Joy.</p>
+               <p>This is the joy S. <hi>Paul</hi> enjoynes the <hi>Philippians</hi> to ob<g ref="char:EOLhyphen"/>ſerve in our Text, and this is that joy which I commend to you to embrace. Would you be joyful? would you be cheerful? Would you be merry indeed? Oh then labour for Righteouſneſs, whence Peace of Conſcience will undoubtedly proceed, and thence unſpeakable Joy will neceſſarily follow. <hi>Gaudete in veritate, non in ini<g ref="char:EOLhyphen"/>quitate;</hi> 
+                  <note place="margin">Beda.</note> 
+                  <hi>gaudete in ſpe aeternitatis, non in flore vanitatis,</hi> as Venerable <hi>Beda</hi> hath it; that is, Rejoyce in Verity, not in Iniquity; rejoyce in the hope of Eternity, not in
+<pb n="7" facs="tcp:100693:7"/> the fading flower of Vanity: And thus I am fallen up<g ref="char:EOLhyphen"/>on my ſecond Particular, which is the Limitation of this Duty enjoyned, expreſs'd in theſe words, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>in the Lord. Rejoyce in the Lord.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>The Second Part,</hi> Limitation.</head>
+               <p>This (Beloved) is the qualifying, the ſeaſoning, and the bounding of our Mirth; It muſt be in the Lord: Why? <hi>
+                     <g ref="char:V">Ʋ</g>llumne gaudium niſi in Dorino?</hi> ſaith <hi>Aug.</hi> Yes, there is, as the ſame Father hath it, <hi>Gaudium Va<g ref="char:EOLhyphen"/>nitatis,</hi> as well as <hi>Gaudium Veritatis;</hi> that is, there is a joy of Vanity, as well as a joy of Verity. There is a twofold joy, there is a helliſh joy, and there is a holy joy; the one is inhibited, the other impoſed. The vain joy of the world, or rather, the worlds joy in vanity, is interdicted; the holy joy, the joy of verity, the rejoycing in the Lord, that is it which is here enjoyned in our Apoſtles Edict, <hi>Rejoyce in the Lord.</hi>
+               </p>
+            </div>
+            <div type="observation">
+               <head>Obſ. <hi>Rejoycing in the Lord is the only true rejoycing.</hi> 
+               </head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obſ. </seg>
+                  </label> 
+                  <hi>Illud eſt verum acſummum gaudium</hi> (ſaith S. <hi>Bernard)</hi> 
+                  <note place="margin">Bern. in Serm.</note> 
+                  <hi>quod non de Creatura, ſed de Creatore concipitur; quod cum acceperis, nemo tollet a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te; cui aliunde comparata, omnis jucunditas moeror eſt, omnis ſuavitas dolor eſt, omne dulce amarum eſt, omne decorum foedum eſt, omne postremo quod delectari poteſt, moleſtum eſt.</hi> That is true and excellent joy indeed (ſaith that Father) which is conceived in the Creator, and not in the Creature; which when thou haſt received, no man can take from thee; to which, if all other rejoycing and pleaſure be compared, they be but painfulneſs, all other ſweetneſs but ſadneſs, all other de<g ref="char:EOLhyphen"/>lightſomneſs but dulneſs, all other comlineſs but filthi<g ref="char:EOLhyphen"/>neſs; and in a word, all other mirth but madneſs.</p>
+               <p>The comfort which the Soul feels in Gods favour, in the pardon of ſin, is that which indeed deſerves to be ter<g ref="char:EOLhyphen"/>med Joy and Rejoycing.</p>
+               <pb n="8" facs="tcp:100693:8"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> And that firſt, Becauſe it will overcome and ſwallow up all other occaſions of Sadneſs and Diſcouragement; it ſweetens all afflictions whatſoever; it reſolves the Soul, that how ſharp ſoever they are in a preſent ſenſe, yet they are the Lords Chaſtenings to prevent future Con<g ref="char:EOLhyphen"/>demnation; for <hi>when we are judged</hi> (ſaith the Apoſtle) <hi>we are chaſtened of the Lord, becauſe we ſhould not be con<g ref="char:EOLhyphen"/>demned with the world.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>Secondly,</hi> Rejoycing in the Lord is the only true Re<g ref="char:EOLhyphen"/>joycing, becauſe it is laſting; it abides by us when all o<g ref="char:EOLhyphen"/>ther joyes forſake us: Chriſt commends it to his Diſci<g ref="char:EOLhyphen"/>ples, by the name of a <hi>Joy which no man could take from</hi> 
+                  <note place="margin">
+                     <hi>Joh.</hi> 16. 22.</note> 
+                  <hi>them.</hi> It may indeed, I confeſs, ſometime be interrupt<g ref="char:EOLhyphen"/>ed and overclouded with ſad Paſſions, but it can never be clean extinguiſhed. God doth ſometime ſo hide away his face from his deareſt ones, for their humiliation, that they are troubled, and that not a little; but it is an ab<g ref="char:EOLhyphen"/>ſolute and never-failing truth, that <hi>he will turn again and quicken them, that his people may rejoyce in him.</hi> As for <note place="margin">
+                     <hi>Pſal.</hi> 71. 20.</note> the joy that is in outward things, as in the wealth, ho<g ref="char:EOLhyphen"/>nour, pleaſure and glory of this Life, it is but vaniſhing, <hi>like the noiſe of Thorns under a Pot,</hi> as the wiſe man tells <note place="margin">
+                     <hi>Ecc.</hi> 7. 8.</note> us, which crackle and blaze exceedingly for a while, but are quickly out. It is a ſhort rejoycing, even a joy but for a moment, as <hi>Zophar</hi> tells us; <hi>The rejoycing of the</hi> 
+                  <note place="margin">
+                     <hi>Job</hi> 20. 5.</note> 
+                  <hi>wicked is ſhort</hi> (ſaith he) <hi>and the joy of Hypocrites is but a moment.</hi> As the things themſelves are tranſitory and un<g ref="char:EOLhyphen"/>certain, ſo muſt that joy that is taken in them be; Vanity it ſelf is not more light. And then, for the moſt part, theſe ſhallow, and ſoon drying Streams of outward joy, they do empty themſelves into a Sea of Heavineſs: They are as a ſhort Winters day, the fairneſs whereof, in re<g ref="char:EOLhyphen"/>gard of ſome breakings out of the Sun, is at laſt ſwallow<g ref="char:EOLhyphen"/>ed up into a gloomy and tempeſtuous night. But that Light which is <hi>ſown for the righteous</hi> (as the Pſalmiſt <note place="margin">
+                     <hi>Pſal.</hi> 97. 11.</note> ſpeaketh) and that Joy which is <hi>prepared for the upright in heart,</hi> though it be ſometime darkned, yet it never goes out: It doth alwayes ſcatter and diſperſe, like the
+<pb n="9" facs="tcp:100693:8"/> Sun in his ſtrength, all Clouds of Affrightment, and all Miſts of Diſcontentment whatſoever. This relieves the Soul, whenas other joyes do deceive a man, <hi>like a Brook,</hi> as holy <hi>Job</hi> ſpeaks, which, when we want water, is dry, and when we have no need, overflows. This Joy there<g ref="char:EOLhyphen"/>fore, <note place="margin">
+                     <hi>Job</hi> 6. 15.</note> is the only true Joy: This rejoycing in the Lord, is the only true rejoycing.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe. </seg>
+                  </label> This Doctrine is a Direction for the guiding and order<g ref="char:EOLhyphen"/>ing of our Deſires in the matter of joy. Our Nature affects joy; it is every mans wiſh, if he could, to have a glad heart; but in the point it ſelf touching joy, and concerning gladneſs, therein generally we miſtake. One man placeth his joy in this, <hi>that his Subſtance is great,</hi> 
+                  <note place="margin">
+                     <hi>Job</hi> 31. 25.</note> 
+                  <hi>and that his hand hath gotten much,</hi> as <hi>Job</hi> ſpeaks: Ano<g ref="char:EOLhyphen"/>ther is glad with <hi>Haman, for his great Promotion:</hi> A Ta<g ref="char:EOLhyphen"/>ble <note place="margin">
+                     <hi>Eſth.</hi> 5. 11.</note> richly deck'd, an overflowing Cup, and a faring de<g ref="char:EOLhyphen"/>liciouſly every day, there is the <hi>Epicures</hi> joy: They moſt dote upon that mad Mirth which <hi>Solomon</hi> ſpeaks of; <note place="margin">
+                     <hi>Eccl.</hi> 2. 2.</note> and if they may live in pleaſures and wantonneſs, ma<g ref="char:EOLhyphen"/>king to morrow as to day, and have their Houſes peace<g ref="char:EOLhyphen"/>able, and without fear, without any Rod of God upon them, then they are glad; and many Fools are apt to think them happy who live thus: O, ſay they, they live a brave life, as men enjoying their imagined feli<g ref="char:EOLhyphen"/>city. But alas! how much are men deceived herein? what are all thoſe joys in compariſon of this we are now treating of? Indeed if it be rightly conſidered, what true comfort can a man take in any thing, ſo long as he knoweth not how the caſe ſtandeth between God and his own Soul? What true comfort, I ſay, can any man have, ſo long as he knows not what ſhall become of him at the day of the great account and reckoning for his ſins? Howſoever the Devil teacheth men to forget the conſideration hereof, that ſo he may lead them on like an Oxe to the ſlaughter, or as a Fool that goes to the Stocks for correction, not knowing that they are in danger: Yet if ever at any time the Conſcience be a little awakened to think on this, the very remembrance of it is like the
+<pb n="10" facs="tcp:100693:9"/> beholding of the hand upon the Wall to <hi>Belſhazzar,</hi> 
+                  <note place="margin">
+                     <hi>Dan.</hi> 5. 6.</note> which when he ſaw it, put him quite out of his humour of Jollity; it was not the preſence of his Princes, nor the company of his Wives and Concubines, nor the be<g ref="char:EOLhyphen"/>holding of the Golden Veſſels which he had taken out of the Temple of the Lord, nor the pleaſing taſte of the Wine which was before him, none of theſe could keep his countenance from changing, nor his thoughts from troubling him. Nothing indeed can overcome the ter<g ref="char:EOLhyphen"/>rour and amazement which is wont to aſtoniſh the Soul guilty of ſin in its own apprehenſion, and ſenſible of the terrour of the Lord, and yet ignorant withall, and with<g ref="char:EOLhyphen"/>out all manner of aſſurance to be pardoned. Think, Oh think ſeriouſly with thy ſelf in what a caſe thy Soul will be, when as thou art breathing out thy laſt Breath, and art even ready to be driven out of the world by a violent and tormenting ſickneſs; when thou ſhalt ſee the ſins of thy Life muſtering together before thee, and the juſt wrath of God ready to ſeize upon thee, and Hell in thy own conceit even wide gaping to receive thee, and yet haſt no feeling of this joy iſſuing out of the knowledge of Gods being graciouſly reconciled to thee in his Son. Oh then (Dear Chriſtians) let us labour for this joy above all; let us never give any reſt to our thoughts, till we be brought to hear of this gladneſs in the Lord: A Dram of this is better than all the mirth in the world beſide, and ſhall be a ſecret comfort of thy Soul, when all that the Earth affords, cannot yield thee ſo much as a drop of true refreſhing.</p>
+               <p>Wicked joys are like thoſe Locuſts, upon whoſe heads were not Crowns, but as if it were Crowns (not of <note place="margin">
+                     <hi>Rev.</hi> 9. 7.</note> Gold, but) like Gold: their Faces were (not, but) as it were Faces of men; their Hairs (not indeed, but) as it were the Hairs of Women; their Breſtplates, as it were Breſtplates of Iron: All theſe were ſhadowy and ſimilitudi<g ref="char:EOLhyphen"/>nary; but there were ſtings in their Tails, as you may ſee at the <hi>10th.</hi> verſe, not as it were, but true ſtings in<g ref="char:EOLhyphen"/>deed. <hi>Gaudent falſis bonis, pereunt veris tormentis;</hi> Men
+<pb n="11" facs="tcp:100693:9"/> call for mirth and jollity here, as the <hi>Philiſtims</hi> did for <hi>Sampſon,</hi> to make them ſport, and it pulls down the <note place="margin">
+                     <hi>Jud.</hi> 16. 25.</note> Houſe upon their heads. <hi>It is better</hi> (ſaith S. <hi>Gregory)</hi> in the words of <hi>Solomon, to enter into the houſe of mourn<g ref="char:EOLhyphen"/>ing, than the habitation of ſuch rejoycing.</hi> How fooliſh is it for a little tickling of the Palat, to hazard eternal comfort? to adventure our drowning in eternal perdi<g ref="char:EOLhyphen"/>tion? Let us therefore (beloved Brethren) think of the joy of this world as it deſerves, <hi>viz.</hi> with contempt; for alas, how little can it do for us? and that little, with what deceit? What is thy heart the better? or what the merrier for all theſe falſe joys wherewith at any time it hath befriended thee? When did it offer Honey, but it <note place="margin">
+                     <hi>Jud.</hi> 4. 21.</note> brought a Sting withal? When did it tender thee Milk and Slumber, without a Nail and a Hammer? Juſt like <hi>Joabs</hi> Kiſs, it is ſtill attended with a ſecret Stab. It is no good purchaſe, to procure an endleſs wo, for a little <note place="margin">2 <hi>Sam.</hi> 20. 9.</note> ſliding ſhadow of contentment. Believe them that have bought their experience dear. It is better to avoid this joy, <hi>ante guſtum, quam post faſtidium,</hi> before we have taſted it, than after we have ſurfeited on it. The more hold we take of this, the more we loſe our hold upon God. Turn ye therefore, my beloved Brethren, from this vain, falſe, and ſhort joy that ſeeks you, and ſeek that joy of verity, that joy in the Lord, which ſhall for ever content, and never cloy you.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> But what (may ſome man ſay) may we not rejoyce at all in temporal things? May we not chearfully enjoy thoſe outward things that God hath been pleaſed to be<g ref="char:EOLhyphen"/>ſtow upon us?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Yes Beloved, I deny not but you may, ſo as you take theſe two Cautions along with you:</p>
+               <p>
+                  <hi>Firſt,</hi> You muſt have a diligent care to prevent Ex<g ref="char:EOLhyphen"/>ceſs. <hi>Whether we eat or drink, or whatſoever we do elſe,</hi> 
+                  <note place="margin">1 <hi>Cor.</hi> 10. 31. <hi>Rom.</hi> 13. 13. <hi>Luke</hi> 21. 34</note> 
+                  <hi>all must be done to the Glory of God.</hi> Gluttony and Drunkenneſs are the works of Darkneſs, contrary to ho<g ref="char:EOLhyphen"/>neſt walking; you muſt take heed therefore leſt at at any time your hearts be oppreſſed with them.</p>
+               <pb n="12" facs="tcp:100693:10"/>
+               <p> 
+                  <hi>Secondly,</hi> You may rejoyce in the enjoyment of theſe outward things, always provided that God be not baniſh<g ref="char:EOLhyphen"/>ed out of your thoughts: We may be merry, but God muſt be by: we may pleaſe our ſelves, ſo long as we diſ<g ref="char:EOLhyphen"/>pleaſe not him. All our joy is not reſerved for the next life, ſome is afforded us on earth; Gods greater Light doth not extinguiſh the leſs. Friends, Children, Wine, Oyl, Health, Liberty, Competency, are not given us for diſcontent; we may not make them indeed Gods Ri<g ref="char:EOLhyphen"/>vals, but we may rejoyce in them as Gods Bleſſings. In themſelves, they are nothing; in him, they are worth our joy. They wrong Chriſtians, that forbid them mirth: The Goſpel is not ſuch dull Metal, but the Ti<g ref="char:EOLhyphen"/>dings of joy to all Believers. When the Lord hath <note place="margin">
+                     <hi>Luke</hi> 2. 10.</note> made us happy, he gives us no thanks to make our ſelves miſerable. If we find God reconciled, Chriſt our Ad<g ref="char:EOLhyphen"/>vocate, the Holy Spirit our Comforter, if we have peace in our Conſcience, and in Heaven an Inheritance, we ſhould be both angry and aſhamed at our ſelves, to ask on earth that Queſtion, <hi>Why art thou ſad, or caſt down, Oh my Soul!</hi> If we be in Chriſt, our very bread <note place="margin">
+                     <hi>Pſal.</hi> 42. 11.</note> is a Symbole of the Bread of Life; and our Wine and Beer, a Token of that Cup we ſhall drink in Heaven. What ſhould diſcomfort us, if the Lord be with us? Only let's be ſure, that our Delights exclude not the Preſence of God. Rejoyce we may; nay, rejoyce we muſt; it is our duty enjoyned by the Apoſtle; but look we to the Limitation, that the Lord be in it. <hi>Rejoyce in the Lord.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>The Third Part,</hi> The Extent.</head>
+               <p>I have done with two parts of my Text, The <hi>Duty,</hi> and the <hi>Limitation</hi> of it. I ſhall now proceed to the Third, which is the <hi>Extent</hi> of the Duty, in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>alway;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>Rejoyce in the Lord alway.</hi>
+               </p>
+               <p>This ſeems at firſt view a ſtrange Paradox, an intricate Riddle, nay indeed a meer contradiction: For how can
+<pb n="13" facs="tcp:100693:10"/> we weep, lament and ſorrow too, as our bleſſed Saviour <note place="margin">
+                     <hi>Joh.</hi> 16. 20.</note> himſelf hath ſaid we ſhall; and yet rejoyce alſo, and that alwayes too, as the Apoſtle here ſaith we ſhould? <hi>Rejoyce in the Lord alway:</hi> How is it poſſible that weep<g ref="char:EOLhyphen"/>ing and rejoycing ſhould comply and agree together in one and the ſame Subject, at one and the ſame time? Do not Contraries expel each other? Yes (Beloved) they do indeed; but theſe are not contraries: Chriſtian Re<g ref="char:EOLhyphen"/>joycing and Chriſtian Mourning do well agree together in one and the ſame Subject, at one and the ſame time too. Take a Similitude from a Traveller, to illuſtrate this unto you. A Traveller may rejoyce to ſee the Sun ſhine, and yet he may be ſorrowful too at the very ſame time, to behold ſome Clouds ariſing to eclipſe his Light from him. So it is (Beloved) with Gods Children, they may rejoyce to ſee the Sun of Gods Favour ſhining com<g ref="char:EOLhyphen"/>fortably upon them, and yet at the ſame time, they may weep too, to behold ſome of their cloudy ſins ariſing to obſcure it. <hi>Nullus enim juſtus &amp; ſanctus caret peccato,</hi> 
+                  <note place="margin">Aug.</note> 
+                  <hi>nec tamen ex hoc deſinit eſſe juſtus vel ſanctus, cum affectu teneat Sanctitatem.</hi> There is no man ſo righteous or ho<g ref="char:EOLhyphen"/>ly as to be without ſin, and yet he ceaſeth not to be righ<g ref="char:EOLhyphen"/>teous or holy, ſo long as he affecteth Holineſs: ſo S. <hi>Aug.</hi> The burning Buſh in which God appeared to <hi>Moſes,</hi> that <note place="margin">
+                     <hi>Exod.</hi> 3. 2.</note> was not burnt up becauſe God was in it, ſheweth us how Gods Church and Choſen, may both weep continually, and yet rejoyce continually too. Weep they muſt con<g ref="char:EOLhyphen"/>tinually, becauſe they are alwayes compaſſed about with the fiery flames of Affliction: Again, rejoyce they muſt continually, becauſe they are not conſumed, but comforted by God in the midſt of all calamities.</p>
+               <p>
+                  <hi>We have ſeen,</hi> ſaith S. <hi>Gregory, Clouds diſſolving them<g ref="char:EOLhyphen"/>ſelves</hi> 
+                  <note place="margin">Greg.</note> 
+                  <hi>into drops upon the Earth, and yet the Sun-beams re<g ref="char:EOLhyphen"/>ſplendently reflecting refreſhment on the ſame, at the ſame inſtant of time.</hi> So it is with Gods Children here on Earth; the doleful Clouds of ſin, and affliction for ſin, do often di<g ref="char:EOLhyphen"/>ſtil-Chryſtal ſhowers from their eyes, and yet the Sun of Righteouſneſs ſhines at the ſame inſtant moſt comfortably
+<pb n="14" facs="tcp:100693:11"/> in their hearts, and cauſeth them to rejoyce; witneſs holy <hi>David,</hi> who tells us, that in the multitude of the <note place="margin">
+                     <hi>Pſal.</hi> 94. 19.</note> ſorrows of his heart, Gods Comforts ſtill refreſhed his Soul.</p>
+               <p>We will now deſcend to the demonſtration of this unto you in ſome few Particulars. Six Cauſes I have former<g ref="char:EOLhyphen"/>ly obſerved (in my Sermon on the <hi>16th.</hi> of <hi>John,</hi> at the <hi>20th.</hi> verſe, Printed in the Year 1643.) to move the Righteous to weep continually; but, lo, now I bring you twice ſo many more Cauſes out of Gods Storehouſe, to make them rejoyce even in the ſame things alwayes.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt cauſe of their weeping is for their own ſins againſt God: This made <hi>David</hi> every night to <hi>water his Couch with his Tears.</hi> This made <hi>Mary Magdalen</hi> 
+                  <note place="margin">
+                     <hi>Pſal.</hi> 6. 6. <hi>Luke</hi> 7. 38.</note> weep as if ſhe poured forth water, not by drops, but by floods: This made <hi>Peter weep bitterly;</hi> yea, and this made S. <hi>Paul</hi> cry out heavily, <hi>Miſer ego homo, quis me</hi> 
+                  <note place="margin">
+                     <hi>Matth.</hi> 26. 75. <hi>Rom.</hi> 7. 24.</note> 
+                  <hi>eripiet?</hi> &amp;c. <hi>Oh wretched man that I am, who ſhall deli<g ref="char:EOLhyphen"/>ver me from the body of this death?</hi>
+               </p>
+               <p>Yes, bleſſed Saint, thou haſt a Deliverer, Jeſus Chriſt our Lord, he is the <hi>Propitiation for thy ſins, and not for thine only, but for all the ſins of all the Elect.</hi> Rejoyce <note place="margin">1 <hi>John</hi> 2. 2.</note> therefore in this Oh ye Righteous; firſt, Becauſe <hi>there is no condemnation to them that are in Chriſt Jeſus.</hi> And then, ſecondly, Becauſe you <hi>walk not after the Fleſh, but</hi> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 8. 1.</note> 
+                  <hi>after the Spirit.</hi> Your ſins are remitted, and therefore you have cauſe to be chearful. If there be ſorrow in the contrition of ſin, much more then is there joy in the re<g ref="char:EOLhyphen"/>miſſion of ſin. One dram of this joy out-values all the loads of the other ſorrow. Like men over-burdened, we feel moſt comfortable eaſe, when the Croſs of Chriſt takes all this weight from our ſhoulders. When ſin is remit<g ref="char:EOLhyphen"/>ted, nothing can much afflict. The greateſt ſorrow to the heart penitent, proves the greateſt joy to the heart pardoned. It is not poſſible, for joy and comfort to be there abſent, where Gods kindneſs is preſent. Can that heart be void of Conſolation, which is inhabited by the God of Conſolation? May he who hath the Fountain and
+<pb n="15" facs="tcp:100693:11"/> Ocean of Gladneſs within him, remain a dry Pit, and be utterly empty and void of gladneſs? No, no, they who have been preſſed with the burden of ſin, will be much refreſhed with deliverance from it. They who have been terrified with the guiltineſs of ſin, and the horrible ſight of Damnation, cannot chuſe but be joyful at the pardon thereof, when their Souls are lifted up with the hope of Salvation: As Oyl will overtop all other Li<g ref="char:EOLhyphen"/>quors, and cannot be kept under, ſo will this joy over<g ref="char:EOLhyphen"/>top all other Sorrows, and cannot be ſuppreſſed.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond cauſe of Gods Childrens weeping here on Earth, is for the ſins of others. <hi>Davids</hi> Eyes guſh'd <note place="margin">
+                     <hi>Pſal.</hi> 119. 136. 2 <hi>Pet.</hi> 2. 8.</note> out with Rivers of Tears, <hi>becauſe men kept not Gods Laws.</hi> And righteous <hi>Lot</hi> mourns for the ungodly converſation of the wicked <hi>Sodomites: For he being righteous</hi> (ſaith S. <hi>Peter) and dwelling among them, in ſeeing and hearing, vexed his righteous Soul from day to day, with their unlaw<g ref="char:EOLhyphen"/>ful deeds.</hi> Yet they are to rejoyce in this alſo: Firſt, Becauſe God keepeth them from committing ſuch ſins as others do commit; becauſe they are preſerved from <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing with others into the ſame exceſs of riot: And then, Secondly, Becauſe God will <hi>wound the hairy ſcalp of ſuch</hi> 
+                  <note place="margin">1 <hi>Pet.</hi> 4. 4. <hi>Pſal.</hi> 58. 10.</note> 
+                  <hi>as go on ſtill in their wickedneſs. And the Righteous ſhall rejoyce</hi> (ſaith the Pſalmiſt) <hi>when he ſeeth the vengeance.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Thirdly,</hi> The Third Cauſe of their weeping is for the Judgments of God upon the Land. The Prophet <hi>Jere<g ref="char:EOLhyphen"/>miah</hi> 
+                  <note place="margin">
+                     <hi>Jer.</hi> 9. 1.</note> weeps moſt abundantly for this; <hi>Oh that mine head</hi> (ſaith he) <hi>were full of water, and mine eyes a fountain of tears, that I might weep day and night for the ſlain of the Daughter of my people!</hi> The Captivity of <hi>Babylon</hi> 
+                  <note place="margin">
+                     <hi>Pſal.</hi> 137. 4.</note> marred the Mirth of <hi>Jeruſalem: How ſhall we ſing the Lords Song</hi> (in ſuch diſtreſs) <hi>in a ſtrange Land?</hi> Cer<g ref="char:EOLhyphen"/>tainly, when God troubles the ſtate of our Peace, he would trouble the eyes of our heads; when the Thunder ſhakes the Air, the Clouds weep to ſtill it. Nothing is more without comfort than Darkneſs, nor is there any thing more without joy than Calamity: How then ſhall we rejoyce in this, when the Judgments of God are a<g ref="char:EOLhyphen"/>broad
+<pb n="16" facs="tcp:100693:12"/> in the Earth? Yes, thus Beloved. Firſt, Becauſe God hath hitherto preſerved us from the Judgments up<g ref="char:EOLhyphen"/>on the Land; as namely, from Plague, Peſtilence, Fire, and Famine, from Battel, Murder, and ſudden death; inſomuch as we may ſay with the Prophet <hi>David, A thouſand have fallen at our left hand, and ten thouſand at</hi> 
+                  <note place="margin">
+                     <hi>Pſal.</hi> 91. 7.</note> 
+                  <hi>our right hand, but it hath not come near us.</hi> Unto Gods Children there is alwayes comfort in calamity; unto the righteous there ariſeth Light in Darkneſs: <hi>They need not be afraid for the terrour by night, nor for the Arrow that</hi> 
+                  <note place="margin">
+                     <hi>Pſal.</hi> 112. 4. <hi>Pſal.</hi> 91. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</note> 
+                  <hi>flieth by day.</hi> And then ſecondly, They may rejoyce a<g ref="char:EOLhyphen"/>gain in this, that if ſo be it ſhould pleaſe God to take them away by any ſweeping Judgment, yet their Souls cannot be touched; they are ſure to be ſaved, and to be carried into <hi>Abrahams</hi> Boſom. It is enough to make <note place="margin">
+                     <hi>Luk.</hi> 16. 22</note> them rejoyce in any Judgment whatſoever happens, to know that it ſhall work together for the beſt for them. <note place="margin">
+                     <hi>Rom.</hi> 8. 28.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                  <hi>Fourthly,</hi> The Fourth cauſe of Gods Childrens weep<g ref="char:EOLhyphen"/>ing, is for the afflictions of poor <hi>Joſeph,</hi> for them that are toſſed from Poſt to Pillar; for them that are driven from houſe and home; in a word, for them that are for Chriſts ſake brought to great extremity. <hi>Mine eye caſt<g ref="char:EOLhyphen"/>eth out Rivers of water</hi> (ſaith the Prophet <hi>Jeremy) for the</hi> 
+                  <note place="margin">
+                     <hi>Lam.</hi> 3. 48, 49.</note> 
+                  <hi>deſtruction of the Daughter of my people; yea, mine eye droppeth without ſtay, and ceaſeth not.</hi> But how ſhall we rejoyce in this? Yes, thus; Firſt, Becauſe the light affli<g ref="char:EOLhyphen"/>ctions of this preſent life do cauſe an eternal weight of Glory; yea, a far more excellent, and eternal weight of Glory, as the bleſſed Apoſtle aſſures us. And then, Secondly, becauſe <hi>Sanguis Martyrum eſt Semen Eccleſiae,</hi> becauſe the blood of Martyrs is the ſeed of the Church. What is a few drops of Blood here, to the Kingdom of Heaven hereafter? <hi>My Brethren</hi> (ſaith S. <hi>James) count</hi> 
+                  <note place="margin">
+                     <hi>Jam.</hi> 1. 2.</note> 
+                  <hi>it exceeding joy, when ye fall into divers Temptations.</hi> What S. <hi>James?</hi> joy in trouble? joy in affliction? Will the world believe you S. <hi>James?</hi> Yes, the world of Elect will; they have proved it, they have learned
+<pb n="17" facs="tcp:100693:12"/> this benefit by good experience, they have found their ſor<g ref="char:EOLhyphen"/>rows have been turned into joy; heavineſs might endure for a night, but joy hath come in the morning. We are not deſti<g ref="char:EOLhyphen"/>tute of comfort even here in the midſt of fiery trials, bleſſed be God for it; but this is nothing to that which is to be reveal<g ref="char:EOLhyphen"/>ed: The glory to come doth every way ſurmount the pre<g ref="char:EOLhyphen"/>ſent afflictions of Gods Children: and therefore in this they have cauſe to rejoyce alſo.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+                  <hi>Fifthly,</hi> The Fifth cauſe of Gods Childrens weeping, is for the loſs of dear Friends; thus <hi>David,</hi> we read, mourned for <hi>Jonathan; Woe is me for thee my Brother Jonathan.</hi> Thus <note place="margin">2 <hi>Sam.</hi> 1. 26 <hi>Jo.</hi> 11, 33, &amp; 35.</note> 
+                  <hi>Mary,</hi> yea, and Chriſt himſelf, do weep for <hi>Lazarus.</hi> And how ſhall we do to rejoyce in this? Yes, thus we may, yea, and thus we muſt rejoyce in this: Firſt, Becauſe they reſt from their Labours: And ſecondly, Becauſe they are deli<g ref="char:EOLhyphen"/>vered <note place="margin">
+                     <hi>Rev.</hi> 14. 13.</note> from the Evils to come. They are happy whoſe glaſs is well run out: <hi>Foelices nimium quibus eſt Fortuna peracta;</hi> as the Poet moſt divinely. They reſt from thoſe Labours which tire us that live; and the works which we are to fol<g ref="char:EOLhyphen"/>low, follow them. And are not theſe ſufficient Cauſes of rejoycing in that Particular?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+                  <hi>Sixthly,</hi> and laſtly, Gods Children are to weep, becauſe they are but as Pilgrims and Strangers here on earth; <hi>For</hi> 
+                  <note place="margin">2 <hi>Cor.</hi> 5. 2.</note> 
+                  <hi>therefore we ſigh</hi> (ſaith the Apoſtle) <hi>deſiring to be cloathed with our houſe which is from heaven.</hi> Yet they are to rejoyce in this too: Firſt, Becauſe they have moſt Royal Manſions <note place="margin">
+                     <hi>Joh.</hi> 14. 2, 3.</note> prepared for them in heaven: And ſecondly, Becauſe they are ſure to be poſſeſſed of them in the end. Thus you ſee, Gods Children, though they be as ſorrowing continually, <note place="margin">2 <hi>Cor.</hi> 6. 10.</note> yet are they alſo alway rejoycing. <hi>Rejoyce in the Lord al<g ref="char:EOLhyphen"/>way.</hi>
+               </p>
+               <p>Doſt thou feel now in thy ſelf the Evidences and Pledges <note place="margin">Applic.</note> of the favour of God in Chriſt Jeſus? Oh it is good for thee to rejoyce in them! The Goſpel is glad tidings of joy, yea, <note place="margin">
+                     <hi>Luke</hi> 2. 10.</note> of great joy to all Believers. Doſt thou find thy ſelf ſad, ſullen and diſcontented? Oh check and chide thy ſelf for thy unchearfulneſs: Take the Prophet <hi>David</hi> for thy Pattern, <note place="margin">
+                     <hi>Pſal.</hi> 42. 5, <hi>&amp;</hi> 11. <hi>Pſ.</hi> 43. 5.</note> who no leſs than three times in two ſhort Pſalms together, rebukes himſelf for this very thing. <hi>Why art thou caſt down,</hi>
+                  <pb n="18" facs="tcp:100693:13"/> 
+                  <hi>Oh my Soul? and why art thou diſquieted within me?</hi> Neglect not thoſe divine Conſolations that have been propounded to thee. Stir up and provoke thy ſelf to this holy Duty in the extent of it; <hi>Rejoyce in the Lord alway.</hi> That which <hi>Eli<g ref="char:EOLhyphen"/>phaz</hi> 
+                  <note place="margin">
+                     <hi>Job</hi> 15. 11, 12.</note> ſometime ſaid to <hi>Job,</hi> when he would not be comfort<g ref="char:EOLhyphen"/>ed by God, nor by his Counſel, let me apply to the diſcon<g ref="char:EOLhyphen"/>ſolate, dejected and drooping Soul: <hi>Are the Conſolations of God ſmall with thee? Is this thing ſtrange unto thee? Why doth thine heart take thee away? and what do thine eyes mean? Seem the Conſolations of God ſmall unto thee?</hi> Thou haſt heard twice ſo many Cauſes of rejoycing, as there is of ſorrowing, in the ſame Particulars; why then takeſt thou no more joy in God? why then takeſt thou no more comfort in Chriſt? why doſt thou not rejoyce in the Lord alway? Certainly, beloved, the true reaſon why we rejoyce not e<g ref="char:EOLhyphen"/>nough, is, becauſe we are not enough Chriſtians.</p>
+               <p>Well, would you now for the future practiſe this Apoſto<g ref="char:EOLhyphen"/>lical precept of rejoycing in the Lord alway? then obſerve, I pray, theſe four Means following. <label type="milestone">
+                     <seg type="milestoneunit">Means </seg>1</label> 
+                  <hi>Firſt,</hi> Get you a true juſtifying Faith; get you a good aſſurance of Salvation: this is a ſure way to keep the heart chearful. The Light of Gods countenance favourably ſhining upon us through Chriſt, adds more comfort, than when our Corn, and Wine, and Oil is increaſed. The joy that groweth from this ground, <note place="margin">
+                     <hi>Pſal.</hi> 4. 6, 7. 1 <hi>Pet.</hi> 1. 8.</note> is <hi>unſpeakable and glorious.</hi> This is able to make a man re<g ref="char:EOLhyphen"/>joyce, when he hath never ſo many means to make him hea<g ref="char:EOLhyphen"/>vy; for <hi>being juſtified by Faith, we have peace with God</hi> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 5. 1, 3.</note> 
+                  <hi>through Jeſus Chriſt our Lord:</hi> neither that only, but we alſo rejoyce in tribulation. This it was that made <hi>Paul</hi> and <hi>Silas</hi> rejoyce and ſing in Priſon. True Faith gives a man many <note place="margin">
+                     <hi>Act.</hi> 16. 25.</note> ſound grounds of comfort; it gives a man many Reaſons of ſolid rejoycing: <milestone type="tcpmilestone" unit="unspecified" n="1"/> For, firſt, It aſſures him of the pardon of his ſins, and when he once knows that, no affliction need trouble him, <hi>Son, be of good comfort, thy ſins are forgiven</hi> 
+                  <note place="margin">
+                     <hi>Matth.</hi> 9. 2.</note> 
+                  <hi>thee,</hi> ſaith Chriſt to the ſick of the Palſie: Thy ſins which were the cauſe of thy Sickneſs, they are forgiven, therefore be of good chear.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>Secondly,</hi> He that hath true Faith, knows that he ſhall ne<g ref="char:EOLhyphen"/>ver loſe the favour of God, after he hath once obtained it,
+<pb n="19" facs="tcp:100693:13"/> how many ſignes ſoever of Gods anger may be upon him; and is not this a notable ground of rejoycing, when a man is by Faith perſwaded, that <hi>neither Life, nor Death, nor</hi> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 8. 38, 39.</note> 
+                  <hi>Principalities, nor Powers, nor things preſent, nor things to come, nor height, nor depth, nor any other Creature, ſhall be a<g ref="char:EOLhyphen"/>ble to ſeparate him from the Love of God which is in Chriſt Je<g ref="char:EOLhyphen"/>ſus our Lord.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Thirdly,</hi> He that hath true Faith, knows God will have a tender reſpect to his weakneſs in whatſoever af<g ref="char:EOLhyphen"/>fliction he ſhall lay upon him, that it ſhall not exceed his <note place="margin">
+                     <hi>Rom.</hi> 8. 26.</note> ſtrength; God will be the ſtrength of his Spirit; God will ſupport and enable him to bear it, that he faint not under it. <hi>God is faithful,</hi> ſaith the Apoſtle, <hi>and will not ſuffer you to be</hi> 
+                  <note place="margin">1 <hi>Cor.</hi> 10. 13</note> 
+                  <hi>tempted above that you are able; but will even give the iſſue with the temptation, that ye may be able to bear it.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                  <hi>Fourthly,</hi> He that hath true Faith, is aſſured that whatſo<g ref="char:EOLhyphen"/>ever affliction God layeth upon him, it ſhall in the end tend to his good, and to the furtherance of his Salvation. Alſo <hi>we know that all things work together for the beſt unto them</hi> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 8. 28.</note> 
+                  <hi>that love God, even to them that are called according to his pur<g ref="char:EOLhyphen"/>poſe.</hi> So S. <hi>Paul.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+                  <hi>Fifthly,</hi> He that hath true faith, knows the end will pay for all, and that after a while all tears ſhall be wiped from his eyes, and he ſhall enjoy unſpeakable comfort. <hi>I ſhould</hi> 
+                  <note place="margin">
+                     <hi>Pſal.</hi> 27. 13.</note> 
+                  <hi>have fainted,</hi> ſaith <hi>David, except I had believed to ſee the good<g ref="char:EOLhyphen"/>neſs of the Lord in the Land of the living.</hi> And this of the firſt Means of continual rejoycing: If you would rejoyce in the Lord alway, you muſt then get you a true juſtifying Faith, a good aſſurance of your ſalvation.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Means </seg>2</label> 
+                  <hi>Secondly,</hi> A ſecond Means to rejoyce alway, is to take care to keep a good Conſcience. That man that in all things is careful to pleaſe God, and to keep his Conſcience pure, that he fall not into any known and grievous ſin, ſhall ever have a quiet and chearful heart; he may rejoyce alwayes: <hi>Our rejoycing is this,</hi> ſaith S. <hi>Paul, even the testimony of our</hi> 
+                  <note place="margin">2 <hi>Cor.</hi> 1. 12.</note> 
+                  <hi>Conſcience, that in ſimplicity and godly pureneſs, we have had our converſation in the world.</hi> This will make a man chearful at all times, not in proſperity only, but even in adverſity alſo; and therefore <hi>Solomon</hi> calls it <hi>a continual Feast.</hi> And <note place="margin">
+                     <hi>Pro.</hi> 15. 15.</note>
+                  <pb n="20" facs="tcp:100693:14"/> in this reſpect the Apoſtle calleth Righteouſneſs <hi>(a Breſtplate)</hi> that will defend the heart even in the evil day. Would you <note place="margin">
+                     <hi>Eph.</hi> 6. 14.</note> therefore have a cheerful heart? would you be comfortable, and rejoyce always; even in affliction, in the time of your ſickneſs, and at the hour of your death? have a care then of a good Conſcience; take heed of known ſins. That man only that in all things is careful to pleaſe God, and to keep his Conſcience pure, that he fall not into any known and grievous ſin, ſhall have a quiet and chearful heart; he only may rejoyce alwayes.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Means </seg>3</label> 
+                  <hi>Thirdly,</hi> The third Means to make us rejoyce alway, is to make the Lord our Treaſure, and not any earthly thing. If a man do not overvalue theſe earthly Comforts, as name<g ref="char:EOLhyphen"/>ly, Husbands, Wives, Friends, Children, Health, Wealth, Liberty, Peace, <hi>&amp;c.</hi> nor account them his chief treaſure, but eſteem them as they are indeed, even tranſitory Comforts; and account the Lord, and his Favour and Grace his chief Treaſure: If a man ſet not his heart on theſe things, but love them only in the Lord, then ſhall he not be oppreſſed with immoderate ſorrow for them, when God ſhall take them a<g ref="char:EOLhyphen"/>way: Such a man may rejoyce ſtill; whereas he that ma<g ref="char:EOLhyphen"/>keth theſe worldly things his chief Treaſure, and ſetteth his heart upon them, he cannot rejoyce alway; he muſt needs be oppreſſed with ſorrow, when he ſhall be deprived of them. You may ſee it in the example of <hi>Ahab,</hi> who, when he could not get <hi>Naboths</hi> Vineyard, his ſpirit was exceeding ſad, he could not eat his Bread: And why was he ſo vexed? Becauſe <note place="margin">1 <hi>Kings</hi> 21. 5, 6.</note> his Pleaſure was his Treaſure, he loved <hi>Naboths</hi> Vineyard too well; it was even a death to him to be kept from it. To ſuch then as have no felicity but in theſe earthly things, as namely, in their Wealth, in their Belly-chear, in their merry Company, in their Paſtimes and Sports, in their brave Ap<g ref="char:EOLhyphen"/>parel, in their Credit and Favour with men, and the like: To ſuch as love theſe things more than God, to all ſuch as affect them and care for them more than they do for God and his Grace, I may ſay as our bleſſed Saviour ſaid in ano<g ref="char:EOLhyphen"/>ther <note place="margin">
+                     <hi>Luke</hi> 21. 6.</note> caſe, Are theſe the things that you look upon? Have you no better Comforts than theſe? Alas, how woful will your caſe be when you muſt part with theſe things? Con<g ref="char:EOLhyphen"/>ſider
+<pb n="21" facs="tcp:100693:14"/> of that which <hi>Job</hi> ſaith, <hi>What hope hath the Hypocrite</hi> 
+                  <note place="margin">
+                     <hi>Job</hi> 27. 8, 9, 10.</note> 
+                  <hi>when he hath heaped up riches, if God take away his Soul? Can he hope that God will hear his cry when trouble cometh upon him? will he ſet his delight on the Almighty, and call upon God at all times?</hi> Take off your affections from theſe terreſtrial and tranſitory things here below, and ſet them on things above: Follow the advice of your bleſſed Saviour in S. <hi>Matthews</hi> Goſpel; <hi>Lay not up treaſure for your ſelves upon earth, but</hi> 
+                  <note place="margin">
+                     <hi>Mat.</hi> 6, 19. 20, 21.</note> 
+                  <hi>lay up treaſures for your ſelves in Heaven:</hi> and mark the rea<g ref="char:EOLhyphen"/>ſon which Chriſt there renders; <hi>for where your treaſure is, there will your heart be alſo.</hi> If you make earthly things your treaſure, you can neither truly rejoyce, nor alway rejoyce; you will either immoderately joy in them when you have them, or elſe immoderately grieve for them, when you ſhall come to want them. To take your thoughts therefore off from theſe things, and to ſet them right where they ſhould be, ſet them on Gods Grace and Favour, that is a ſpecial means to make you rejoyce alway. And to this end, that you may the better be enabled to make God and his Grace your Treaſure, and not any earthly thing, Conſider,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Firſt,</hi> That theſe things are not your proper goods, but caſt more plentifully on Reprobates than on Gods Children; and therefore our Saviour calleth external goods another mans goods, becauſe we are but Stewards of them, and muſt <note place="margin">
+                     <hi>Luk.</hi> 16. 12.</note> leave them; but Gods Favour and Grace are our peculiar portion; ſpiritual goods are our own, they ſhall never be taken away. <hi>The Fear of the Lord is clean, and endureth for ever,</hi> ſaith the Pſalmiſt. <note place="margin">
+                     <hi>Pſal.</hi> 19. 9.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>Secondly,</hi> Conſider alſo, that theſe earthly things are vain, and can yield us no hope, no comfort, nor no joy when we ſhall ſtand in need: <hi>Riches avail not in the day of wrath,</hi> ſaith <hi>Solomon;</hi> but the ſenſe of Gods Favour and Grace doth; for <note place="margin">
+                     <hi>Prov.</hi> 11. 4.</note> that will yield us comfort and unſpeakable joy, even in the greateſt affliction. If therefore you would rejoyce alway, take heed that you overvalue not theſe earthly Comforts, but make God, his Grace and favour your chiefeſt Treaſure.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Means </seg>4</label> 
+                  <hi>Fourthly</hi> and laſtly, The fourth and laſt Means which I ſhall preſcribe you to make you rejoyce alway, is to be rightly perſwaded of our Liberty in the uſe of the outward
+<pb n="22" facs="tcp:100693:15"/> comforts of this life; as namely, good diet, good company, <hi>&amp;c.</hi> Let no man ſay, that this means might well be ſpared, ſeeing moſt men are apt to ſtumble at it. No, for though this age be (I confeſs) a ſecure age, and too much ſet upon Jollity and carnal Mirth, yet muſt I preſcribe this Means to ſuch as know themſelves to be reconciled to God in Jeſus Chriſt. Many good ſouls there are that are apt to give great advantage to Satan, in the anguiſh of their Conſcience, by perſwading themſelves, they ſhould much offend God, if they ſhould give liberty to themſelves to enjoy the Creatures of God for their delight; if they ſhould keep company, or be merry at any time. Such as theſe are, have need of this Inſtruction; to ſuch as theſe are, I ſpeak, and ſay, that a liberal uſe of the outward Comforts of this life, is a good and lawful Means to make them chearful; provided alwayes that they exceed not the bounds of Sobriety. They that uſe theſe things without ſobriety, and affect them too much, they ſhall never receive good by them. It is made the note of a man that ſhall never go to heaven, <hi>to lift up his mind unto vanity.</hi> It is eaſie for a man to ſurfeit, and take too much <note place="margin">
+                     <hi>Pſal.</hi> 24. 4.</note> of theſe things. <hi>If thou have found Honey,</hi> ſaith <hi>Solomon, eat that that is ſufficient for thee, lest thou be over-full, and vo<g ref="char:EOLhyphen"/>mit</hi> 
+                  <note place="margin">
+                     <hi>Prov.</hi> 25. 16</note> 
+                  <hi>it.</hi> Of the comfort and refreſhing that many take in theſe things, that may be ſaid, which <hi>Solomon</hi> likewiſe ſaith, that <hi>the end of that mirth is heavineſs.</hi> Yet cer<g ref="char:EOLhyphen"/>tainly <note place="margin">
+                     <hi>Prov.</hi> 14. 13</note> there is great force in theſe things being rightly uſed, to keep the heart from being overcome with ſadneſs, and to make it chearful. Thus you have had the Duty of Rejoy<g ref="char:EOLhyphen"/>cing, the Limitation of it <hi>(in the Lord)</hi> and the Extent of it alſo, in the word <hi>(alway)</hi> diſcuſs'd unto you: I come now in the laſt place to the fourth and laſt Particular obſer<g ref="char:EOLhyphen"/>ved in my Text, which is the Ingemination of this Duty of Rejoycing, in theſe words, <hi>And again I ſay, Rejoyce.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>The Fourth Part.</head>
+               <p>What need, may ſome men ſay, is there of this Ingemina<g ref="char:EOLhyphen"/>tion? What will the Apoſtle himſelf tautologize? Why ſhould ſo ſhort a Precept have ſo ſudden an Iteration? <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> (Beloved) in the laſt of his <hi>Eccleſiaſtes,</hi> makes my An<g ref="char:EOLhyphen"/>ſwer
+<pb n="23" facs="tcp:100693:15"/> for me, where he ſaith, That <hi>the words of the wiſe are</hi> 
+                  <note place="margin">
+                     <hi>Eccl.</hi> 12. 11</note> 
+                  <hi>as Goads and Nails faſtned by the Maſters of the Aſſemblies.</hi> As Goads to prick us forward to our Duty, and as Nails to keep us within our compaſs. The Goad, you know, ſerves to quicken the dull Oxe, to make him mend his pace: So likewiſe doth our Apoſtles Ingemination here in our Text, ſerve to quicken us, to rouze us from our drowſie dulneſs, to a willing chearfulneſs in ſerving God all the tenour of our lives. Let us therefore ſerve the Lord with gladneſs, <hi>non in amaritudine murmurationis, ſed in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ucunditate dilectionis,</hi> as S. <hi>Auguſtine</hi> ſweetly on the place: Elſe Gods plagues ſhall be evident ſigns, that he is offended with us, whoſe Curſes ſhall come upon us, purſue us, and overtake us, till we be deſtroyed, and that, becauſe we ſerved not the Lord with gladneſs, as <hi>Moſes</hi> tells Gods People in <hi>Deuteronomy.</hi> 
+                  <note place="margin">
+                     <hi>Deut.</hi> 28. 45, 46, 47.</note>
+               </p>
+               <p>
+                  <hi>Rejoyce in the Lord alway, and again I ſay, Rejoyce.</hi>
+               </p>
+               <p>S. <hi>Paul</hi> by doubling of this Duty of Rejoycing, ſtrives to ſtrike the Nail to the head, as we commonly ſay in our En<g ref="char:EOLhyphen"/>gliſh Proverb: He endeavoureth to preſs the Duty home to the Conſcience: A good pattern for us that are Miniſters, to follow and imitate.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obſ. </seg>
+                  </label> Obſ. <hi>Every faithful Miniſter ought after S.</hi> Pauls <hi>exam<g ref="char:EOLhyphen"/>ple, to endeavour to bring Gods Word home to the Conſciences of his Hearers.</hi> We muſt not handle the Word of God de<g ref="char:EOLhyphen"/>ceitfully; but in declaration of the Truth approve our ſelves <note place="margin">2 <hi>Cor.</hi> 4. 2.</note> to every mans Conſcience in the ſight of God. There is (Be<g ref="char:EOLhyphen"/>loved) as much need (though many perhaps may think it ſuperfluous) of Application and of preſſing Duties home to the Conſciences of our Hearers, as there was here of S. <hi>Pauls</hi> Ingemination. <hi>Oh Jeruſalem, Jeruſalem,</hi> ſaith our Saviour <note place="margin">
+                     <hi>Mat.</hi> 23. 37</note> Chriſt, <hi>thou that killeſt the Prophets, and ſtonest them that are ſent unto thee!</hi> Why what? Would not one <hi>Jeruſalem</hi> have ſerved the turn here? No, no, Beloved, our Saviour himſelf preſſeth <hi>Jeruſalem</hi> moſt pathetically; he comes as near the quick as he could, to teach us this very duty of bringing the Word of God as cloſe as we can to the Conſciences of our Hearers.</p>
+               <p>And this we are to do for theſe three Reaſons following: <label type="milestone">
+                     <seg type="milestoneunit">R. </seg>1</label> Firſt, <hi>Propter caecitatem Intellectus,</hi> becauſe of the blindneſs
+<pb n="24" facs="tcp:100693:16"/> of our underſtandings. Secondly, <hi>Propter labilitatem Me<g ref="char:EOLhyphen"/>moriae;</hi> becauſe of the ſlipperineſs of our Memories. And thirdly, <hi>propter perverſitatem Voluntatum;</hi> becauſe of the per<g ref="char:EOLhyphen"/>verſity of our Wills and Affections.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">R. </seg>1</label> And firſt, we are to bring the Word of God as cloſe as we can to the Conſciences of our Hearers, <hi>propter caecitatem Intellectus,</hi> becauſe of the blindneſs of our Underſtandings: For although we are Eagle-ey'd in things belonging to the world, yet are we all by nature, I exclude none, as blind as Beetles, even as blind as <hi>Bartimaeus,</hi> in things pertaining <note place="margin">
+                     <hi>Mar.</hi> 10. 46</note> to our everlaſting ſalvation. <hi>The Natural man perceiveth not the things that are of God, neither indeed can he,</hi> ſaith the A<g ref="char:EOLhyphen"/>poſtle, <note place="margin">1 <hi>Cor.</hi> 2. 14.</note> 
+                  <hi>becauſe they are ſpiritually diſcerned.</hi> We have there<g ref="char:EOLhyphen"/>fore need of Ingemination, we have need of Application, we have need of Line upon Line, and Precept upon Precept.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">R. </seg>2</label> Secondly, We have need of this inculcation, this double commanding of Duty, <hi>propter labilitatem Memoriae,</hi> in regard of the ſlipperineſs of our Memories; we are very forgetful, no ſooner is a good admonition in at one ear, but inſtantly it is out at another, unleſs it be brought home unto the Con<g ref="char:EOLhyphen"/>ſcience, that, that being awakened, may make us revolve it in our minds.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">R. </seg>3</label> Thirdly and laſtly, There is great need that Gods Word ſhould be preſſed home to the Conſciences of our hearers, <hi>propter perverſitatem Voluntatum,</hi> becauſe of the perverſeneſs of our wills and affections, which are naturally averſe from God and Goodneſs. <hi>Vulnerata, ſauciata, vexata, immo per<g ref="char:EOLhyphen"/>dita</hi> 
+                  <note place="margin">Aug.</note> 
+                  <hi>eſt, vera confeſſione, non falſa defenſione opus habet,</hi> ſaith S. <hi>Aug.</hi> Preaching, of all Profeſſions, hath the leaſt hope to prevail, becauſe it deals with the perverſe will of man, which hath naturally no diſpoſition to goodneſs: but rather indeed an oppoſition againſt it; an averſeneſs from good, and a perverſeneſs in evil. And yet to work this will to goodneſs, is our Office; and the beſt way to do this, is to ingeminate, to reiterate, and double our Exhortations to Chriſtian Duties unto you; for put caſe you ſhould remem<g ref="char:EOLhyphen"/>ber ſome good inſtructions from Gods word, yet if the will be not ſubjugated again and again, by Ingemination, and by preſſing Application of them to it ſelf, it will queſtion<g ref="char:EOLhyphen"/>leſs
+<pb n="25" facs="tcp:100693:16"/> break out with the <hi>Jews</hi> into a <hi>Nolumus obedire, We will not have this man to rule over us,</hi> we will not obey. <hi>Come let</hi> 
+                  <note place="margin">
+                     <hi>Luke</hi> 19. 14<g ref="char:punc">▪</g> 
+                     <hi>Pſal.</hi> 2. 3.</note> 
+                  <hi>us break his bonds in ſunder, and caſt away his Cords from us.</hi>
+               </p>
+               <p>A Word now of Application, and ſo an end: Hath God <note place="margin">Applic.</note> indeed ſet his Miniſters like Trumpets and Drums to call you to your Arms, to ſtir you up to Chriſtian Duties? O then <note place="margin">
+                     <hi>Heb.</hi> 13. 22.</note> dear Chriſtians, do you ſuffer the words of Exhortati<g ref="char:EOLhyphen"/>on. Let it not be tedious nor irkſom to you to be called up<g ref="char:EOLhyphen"/>on again and again to the practiſe of any Chriſtian Duty. The beſt in Gods Team ſtand in need of a pricking forward; there are none living but have need of a <hi>Memento.</hi> It is our <note place="margin">2 <hi>Tim.</hi> 1. 6.</note> Office to give you the Alarm; be it your care to maintain the Battel. Take heed of kicking and flinging when you are ſpurred; be not like an over-charged Cannon, which ei<g ref="char:EOLhyphen"/>ther burſts, or miſchievouſly recoils againſt the Gunner, when he puts the Match unto it: No, no, be contented to hear of your Duty, and be careful to put it in practiſe too: Remem<g ref="char:EOLhyphen"/>ber to whom the <hi>Euge bone Serve</hi> belongs at the great day; not to the idle and ſluggiſh perſon, but to the faithful, dili<g ref="char:EOLhyphen"/>gent <note place="margin">
+                     <hi>Matth.</hi> 25. 21.</note> and chearful Servant.</p>
+               <p>And now to draw to a Concluſion, and to wind up all in a word; Call to mind dear Chriſtians, the Duty enjoyned you here by the Apoſtle; look to its Limitation; conſider its Extenſion; and ſo ruminate upon its Ingemination, that you take up the Prophet <hi>Habakkuks</hi> Reſolution, <hi>I will rejoyce in</hi> 
+                  <note place="margin">
+                     <hi>Hab.</hi> 3. 18.</note> 
+                  <hi>the Lord, I will joy in the God of my Salvation.</hi> And thus I leave you with this Rule of Rejoycing; which if you well obſerve here, will bring you to the fulneſs of joy hereafter, even to his preſence at whoſe right hand there are pleaſures for evermore: To which fulnels of joy, and never fading pleaſures, he in his good time bring us, who hath ſo dearly bought us, even Jeſus Chriſt the righteous; to whom with thee Oh Father, and thy bleſſed Spirit, be aſcribed, as is moſt due, all Honour and Glory, Power and Dominion, Might and Majeſty, now and for ever, <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
